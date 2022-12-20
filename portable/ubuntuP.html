@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> TUTORIALES 1ºASIR</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title><i>Tutoriales de Paquetes Ofimaticos<i></title><a href=../proyectoS.O.G.rss> <img src="../imagenes/rss.png" width="30" height="30"></a>
+	<link rel="stylesheet" type="text/css" href="../style/practica2.css" media="screen" />
+
+</head>
+    <body>
+    <header>
+            <nav class="menu" >
+                 <ul>
+                    <li><b><i><a href="../index.html">Inicio</a></i></b></li>
+                <li class="dropdown">
+    <b><i><a href="Portables.html">Portables</a></i></b>
+    <div class="dropdown-content">
+      <a href="windowsP.html">Windows</a>
+      <a href="ubuntuP.html">Ubuntu</a>
+  </div>
+
+                <li class="dropdown">
+    </a><b><i><a href="../ofimatico/Ofimatico.html">Ofimatico</a></b></i>
+    <div class="dropdown-content">
+      <a href="../ofimatico/windowsO.html">Windows</a>
+      <a href="../ofimatico/ubuntuO.html">Ubuntu</a>
+  </div>
+                <li class="dropdown">
+    <b><i><a href="../antivirus/Antivirus.html">Antivirus</a></i></b>
+    <div class="dropdown-content">
+      <a href="../antivirus/windowsA.html">Windows</a>
+      <a href="../antivirus/ubuntuA.html">Ubuntu</a>
+  </div>
+
+                <li class="dropdown">
+    <b><i><a href="../copias_mantenimiento/Copias_s.html">Copias de seguridad</a></i></b>
+     <div class="dropdown-content">
+      <a href="../copias_mantenimiento/windowsC.html">Windows</a>
+      <a href="../copias_mantenimiento/ubuntuC.html">Ubuntu</a>
+  </div>
+
+                    
+                </ul>
+            </nav>
+            <div class="texto_informativo">
+                <h2 align="center"> TUTORIAL COMPLETO</h2>
+            </div>
+            <div style="text-align:center"> 
+  <button type="button" class="btn btn-secondary btn-sm" onclick="playPause()">Play/Pausa</button> 
+  <button type="button" class="btn btn-secondary btn-sm" onclick="makeBig()">Grande</button>
+  <button type="button" class="btn btn-secondary btn-sm" onclick="makeSmall()">Pequeño</button>
+  <button type="button" class="btn btn-secondary btn-sm" onclick="makeNormal()">Normal</button>
+  
+
+  <br><br>
+  <video id="video1" width="420">
+    <source src="../portable/videoPU.webm" type="video/webm">
+  </video>
+</div> 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+<script> 
+var myVideo = document.getElementById("video1"); 
+
+function playPause() { 
+  if (myVideo.paused) 
+    myVideo.play(); 
+  else 
+    myVideo.pause(); 
+} 
+
+function makeBig() { 
+    myVideo.width = 860;
+} 
+
+function makeSmall() { 
+    myVideo.width = 620; 
+} 
+
+function makeNormal() { 
+    myVideo.width = 720; 
+} 
+</script>
+<p><center><i>El siguiente video puede pararse o cambiar su tamaño para poder adaptarlo a cualquier usuario,<br>
+ si quieres obtener la aplicación mientras sigue los diferentes pasos aquí te dejo el enlace para que vaya descargandolo<a href="https://linuxhint.com/install-vlc-media-player-ubuntu22-04/">VLC</a></center></p></i>
+
+    </header>
+</html>
