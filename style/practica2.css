@@ -1,0 +1,119 @@
+.contenedor {
+  width: 95%;
+  max-width:1000px;
+  margin:auto;
+}
+
+.contenedor p {
+  margin-bottom:40px;
+}
+
+header {
+  background:rgb(0,0,0) transparent;
+  margin-bottom:10px;
+}
+
+header nav ul {
+  list-style: none;
+  overflow: hidden;
+}
+
+header nav ul li {
+  float: left;
+}
+
+header nav ul li a {
+  display: block;
+  padding:20px;
+  color:#0a0a0a;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background:#feebed;
+}
+
+
+.menu-fixed {
+  position:fixed;
+  z-index:1000;
+  top:0;
+  max-width:1000px;
+  width:100%;
+  box-shadow:0px 4px 3px rgba(0,0,0,0);
+}
+
+h1{
+  text-align:center;
+  color:#0a0a0a;
+}
+
+body {
+  height: 800px;
+  background-image: url("https://img.freepik.com/vector-premium/fondo-blanco-horizontal_476151-479.jpg");
+background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+.texto_informativo {
+  text-align:center;
+  position: relative;
+  top:2px;
+  color:#0a0a0a;
+}
+
+.pie_de_pagina {
+text-align:right-center;
+  position: relative;
+  top:320px;
+  color:#0a0a0a;
+}
+
+p {
+
+width:-10%;
+height:0%;
+
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 19px 10px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #feebed;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
