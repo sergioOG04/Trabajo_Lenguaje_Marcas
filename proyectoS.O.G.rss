@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Lenguaje de marcas</title>
+<link>https://sergioog04.github.io/sergioOG04/</link>
+<description> Tutoriales de aplicaciones </description>
+<category>viajes/ciudades/ocio</category>
+<copyright>1º ASIR - LMAR</copyright>
+<language>es-es</language>
+<lastBuildDate>Wed, 21 Nov 2018 08:42:37 GMT</lastBuildDate>
+<webMaster>otgase_aliesma20@iesmedinaazahara.es</webMaster>
+
+<item>
+<title>Portables</title>
+<description>Comparativas sobre dicha aplicaciones</description>
+<link>https://sergioog04.github.io/sergioOG04/portable/Portables.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Portables</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>ubuntuP</title>
+<description>Tutorial explicado con imagenes</description>
+<link>https://sergioog04.github.io/sergioOG04/portable/ubuntuP.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Portables</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>WindowsP</title>
+<description>Tutorial explicado con imagenes</description>
+<link>https://sergioog04.github.io/sergioOG04/portable/windowsP.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Portables</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>Ofimatico</title>
+<description>Comparativas sobre dicha aplicaciones</description>
+<link>https://sergioog04.github.io/sergioOG04/portable/Portables.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Ofimatico</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>ubuntuO</title>
+<description>Tutorial explicado con imagenes</description>
+<link>https://sergioog04.github.io/sergioOG04/ofimatico/ubuntuO.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Ofimatico</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>WindowsO</title>
+<description>Tutorial explicado con imagenes</description>
+<link>https://sergioog04.github.io/sergioOG04/ofimatico/windowsO.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Ofimatico</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>Antivirus</title>
+<description>Comparativas sobre dicha aplicaciones</description>
+<link>https://sergioog04.github.io/sergioOG04/portable/Portables.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Antivirus</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>ubuntuA</title>
+<description>Tutorial explicado con imagenes</description>
+<link>https://sergioog04.github.io/sergioOG04/antivirus/ubuntuA.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Antivirus</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>WindowsA</title>
+<description>Tutorial explicado con imagenes</description>
+<link>https://sergioog04.github.io/sergioOG04/antivirus/windowsA.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Antivirus</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>Copias_s</title>
+<description>Comparativas sobre dicha aplicaciones</description>
+<link>https://sergioog04.github.io/sergioOG04/copias_mantenimiento/Copias_s.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Copias_s</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>ubuntuC</title>
+<description>Tutorial explicado con imagenes</description>
+<link>https://sergioog04.github.io/sergioOG04/copias_mantenimiento/ubuntuC.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Copias_s</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>WindowsC</title>
+<description>Tutorial explicado con imagenes</description>
+<link>https://sergioog04.github.io/sergioOG04/copias_mantenimiento/windowsC.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>Copias_s</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+<item>
+<title>clonezilla</title>
+<description>Tutorial explicado con videos</description>
+<link>https://sergioog04.github.io/sergioOG04/clonezilla/clonezilla.html</link>
+<author>otgase_aliesma20@iesmedinaazahara.es</author>
+<category>clonezilla</category>
+<pubDate>Wed, 21 Nov 2018 08:42:37 GMT</pubDate>
+</item>
+
+</channel>
+</rss>

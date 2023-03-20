@@ -1,0 +1,181 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://sergioog04.github.io/sergioOG04/">
+<id>https://sergioog04.github.io/sergioOG04/</id>
+<title>TUTORIALES 1ºASIR</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://github.com/sergioOG04/sergioOG04/Proyecto_S.O.G_atom.xml"/>
+<author>
+<name>Sergio Otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<category term="TUTORIALES 1ºASIR"/>
+
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/</id>
+<title>Lenguaje de Marcas</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="hhttps://sergioog04.github.io/sergioOG04/"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/portable/Portables.html</id>
+<title>Portables</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Comparativas sobre dicha aplicaciones</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/portable/Portables.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/portable/ubuntuP.html</id>
+<title>ubuntuP</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/portable/ubuntuP.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/portable/windowsP.html</id>
+<title>WindowsP</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/portable/windowsP.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/ofimatico/Ofimatico.html</id>
+<title>Ofimatico</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Comparativas sobre dicha aplicaciones</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/ofimatico/Ofimatico.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/ofimatico/ubuntuO.html</id>
+<title>ubuntuO</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/ofimatico/ubuntuO.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/ofimatico/windowsO.html</id>
+<title>WindowsO</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/ofimatico/windowsO.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/antivirus/Antivirus.html</id>
+<title>Antivirus</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Comparativas sobre dicha aplicaciones</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/antivirus/Antivirus.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/antivirus/ubuntuA.html</id>
+<title>ubuntuA</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/antivirus/ubuntuA.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/antivirus/windowsA.html</id>
+<title>WindowsA</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/antivirus/windowsA.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/copias_mantenimiento/Copias_s.html</id>
+<title>Copias_s</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Comparativas sobre dicha aplicaciones</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/copias_mantenimiento/Copias_s.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/copias_mantenimiento/ubuntuC.html</id>
+<title>ubuntuC</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/copias_mantenimiento/ubuntuC.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/copias_mantenimiento/windowsC.html</id>
+<title>WindowsC</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con imagenes</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/copias_mantenimiento/windowsC.html"/>
+</entry>
+
+<entry>
+<id>https://sergioog04.github.io/sergioOG04/clonezilla/clonezilla.html</id>
+<title>clonezilla</title>
+<updated>2021-02-12T18:30:00+01:00</updated>
+<author>
+<name>Sergio otero García</name>
+<email>otgase_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary>Tutorial explicado con videos</summary>
+<link rel="alternate" href="https://sergioog04.github.io/sergioOG04/clonezilla/clonezilla.html"/>
+</entry>
+
+</feed>
